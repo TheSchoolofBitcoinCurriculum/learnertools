@@ -28,4 +28,4 @@
   Search for Bitcoin-related information efficiently.
 
 - [CoinOS](https://coinos.io/)
-  The easiest raysway to get started with bitcoin.
+A free web wallet and payment page for everyone.
