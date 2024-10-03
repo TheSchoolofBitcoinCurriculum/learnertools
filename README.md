@@ -26,3 +26,6 @@
 
 - [Bitcoin Search](https://bitcoinsearch.xyz/)  
   Search for Bitcoin-related information efficiently.
+
+- [CoinOS](https://coinos.io/)
+  The easiest raysway to get started with bitcoin.
